@@ -1,0 +1,74 @@
+# section information
+section:
+  name: Experiences
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+
+
+# Your experiences
+experiences:
+- company :
+    name: BNP PARIBAS SECURITIES SERVICES
+    url: "https://securities.cib.bnpparibas/"
+    location: Pantin (France)
+    # company overview
+    overview: The BNP Paribas Group subsidiary specialized in multi-asset services (Clearing, Settlement,Custody).
+  
+  positions:
+     - designation: IT Project lead
+       start: May 2020
+       end : June 2022
+       # don't provide end date if you are currently working there. It will be replaced by "Present"
+       # end: Dec 2020
+       # give some points about what was your responsibilities at the company.
+       responsibilities:
+       - Manage the infrastructure related to the application which is mainly used for settlement and based on Oracle Exadata, Weblogic, TIBCO Rendezvous
+       - Onboarding new clients by clarifying the requirements and setting up new flows (CFT/MQ Series)
+       - Incident management (Diagnose,resolve,communicate)
+
+     - designation: Business Analyst
+       start: July 2017
+       end : April 2020
+       responsibilities:
+       - Formalise business requirements related to change requests 
+       - Provide technical and functional support for the end users
+       - Participate in the workshops in order to onboard new clients or integrate data from financial markets
+
+     - designation: Service Delivery Manager
+       start: July 2014
+       end : June 2017
+       responsibilities:
+       - Incidents & crisis call management related to Production activities
+       - Design new architecture in order to be more resilient and avoid the risks of obsolescence
+       - Improving the existing infrastructure (server & software upgrades) based on TIBCO Spotfire,Sybase ASE, DataStage, IBM WebSphere 
+
+- company :
+    name: BNP Paribas
+    url: "https://group.bnpparibas/en/"
+    location: Paris
+    overview: BNP Paribas is the top bank in the European Union and a major international banking establishment.
+  positions:
+    - designation: Business Intelligence analyst
+      start: June 2014
+      end: June 2011
+      responsibilities:
+      - Technical lead on a cost accounting application based on Oracle Essbase and IBM WebSphere 
+      - Technical lead on a migration project related to Oracle Enterprise Performance Management (EPM)
+      - Provide technical and functional support for the end users
+
+- company :
+    name: Accenture
+    url: "https://www.accenture.com/us-en"
+    location: Paris
+    overview: Accenture is a world leader in business and government services, with cutting-edge expertise in digital, cloud and security.
+  positions:
+    - designation: Business Intelligence consultant
+      start: July 2007
+      end: May 2011
+      responsibilities:
+      - Support the clients on the business requirements related to Business Intelligence projects
+      - Estimate, plan and develop change requests
+      - Incidents & crisis call management related to Production activities
+      - Provide technical and functional support for the end users

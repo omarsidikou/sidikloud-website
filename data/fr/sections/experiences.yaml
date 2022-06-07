@@ -1,0 +1,76 @@
+# section information
+section:
+  name: Expériences
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+
+
+# Your experiences
+experiences:
+- company :
+    name: BNP PARIBAS SECURITIES SERVICES
+    url: "https://securities.cib.bnpparibas/fr/"
+    location: Pantin (France)
+    # company overview
+    overview: La filiale du Groupe BNP Paribas spécialisée dans les services titres (Clearing, Settlement,Custody).
+  
+  positions:
+     - designation: Chef de projet informatique
+       start: Mai 2020
+       end : Juin 2022
+       # don't provide end date if you are currently working there. It will be replaced by "Present"
+       # end: Dec 2020
+       # give some points about what was your responsibilities at the company.
+       responsibilities:
+       - Gérer l'infrastructure liée à l'application qui est principalement utilisée pour le règlement des titres. Application basée sur Oracle Exadata, Weblogic, TIBCO Rendezvous
+       - Intégration de nouveaux clients en clarifiant le besoin et en mettant en place de nouveaux flux (CFT/MQ Series)
+       - Gestion des incidens (Analyse,communication, résolution)
+
+     - designation: Business Analyst
+       start: Juillet 2017
+       end : Avril 2020
+       responsibilities:
+       - Formaliser les besoins fonctionnels de clients 
+       - Support technico-fonctionnel sur les clients finaux
+       - Participer aux travaux d'intégration de nouveaux clients 
+       - Mettre en place des processus d'intégration de données qui proviennent des marchés financiers
+
+     - designation: Service Delivery Manager
+       start: Juillet 2014
+       end : Juin 2017
+       responsibilities:
+       - Gestions des incidents et des cellules de crises liés aux activités de reportings financiers.
+       - Concevoir de nouvelles architectures afin que le système d'information lié aux reportings financiers soit plus résilient et permettre 
+         ainsi d'éviter les risques obsolescence.
+       - Améliorer l'infrastructure existance (serveurs & mises à jour logicielles) basée on TIBCO Spotfire,Sybase ASE, DataStage, IBM WebSphere 
+
+- company :
+    name: BNP Paribas
+    url: "https://group.bnpparibas/"
+    location: Paris
+    overview: BNP Paribas est la première banque de l'Union européenne et un établissement bancaire international majeur.
+  positions:
+    - designation: Analyste Business Intelligence 
+      start: Juin 2014
+      end: Juin 2011
+      responsibilities:
+      - Responsable technique sur une application de contrôle de gestion basée sur Oracle Essbase et IBM WebSphere 
+      - Responsable technique sur un projet de migration basée sur Oracle Enterprise Performance Management (EPM)
+      - Support technico-fonctionnel aux Business Analysts.
+
+- company :
+    name: Accenture
+    url: "https://www.accenture.com/fr-fr"
+    location: Paris
+    overview: Accenture est un leader mondial des services aux entreprises et aux gouvernements, avec une expertise de pointe dans le numérique, le cloud et la sécurité.
+  positions:
+    - designation: Consultant Business Intelligence 
+      start: Juillet 2007
+      end: Mai 2011
+      responsibilities:
+      - Accompagner les clients sur les besoins métiers liés à des projets BI
+      - Estimer, planifier et développer les demandes de changement
+      - Gestions des incidents et des cellules de crises liés aux activités de production
+      - Support technico-fonctionnel aux différentes équipes

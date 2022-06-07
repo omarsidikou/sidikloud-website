@@ -1,0 +1,50 @@
+# section information
+section:
+  name: Compétences
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+
+skills:
+- name: Cloud Computing
+  logo: "/images/sections/skills/cloud.png"
+  summary: "Expertise sur Amzon Web Services (AWS) avec un focus sur les sujets d'analyse de données qui se basent sur
+            un framework comme Spark hébergé sur un cluster Amazon EMR. J'ai aussi une bonne connaissance 
+            de Microsoft Azure and IBM Cloud."
+
+- name: Docker/Kubernetes
+  logo: "/images/sections/skills/kubernetes.png"
+  summary: "Je suis capable de construire des applications basées sur des conteneurs Docker.
+           Ensuite, déployer et gérer ces applications sous Kubernetes."
+
+
+- name: Unix/Linux
+  logo: "/images/sections/skills/linux.png"
+  summary: "Unix est le système d'exploitation principal qui héberge la plupart des applications sur lesquelles je travaille.
+            Par conséquent, les scripts shell et Python sont les langages programmation que j'utilise pour les tâches liées à
+            la maintenance applicative (TMA)."
+
+- name: Internet des objets (IoT)
+  logo: "/images/sections/skills/iot.jpg"
+  summary: "Solides connaissances sur l'IoT avec un focus sur la technologie LoRa/LoRaWAN.
+            Certificat acquis en 2020 auprès de [Telecom Executive Education](https://executive-education.telecom-paris.fr/fr/formations-certifiantes/internet-des-objets-iot-objets-connectes)."
+
+- name: Développement Web
+  logo: "/images/sections/skills/web.png"
+  summary: "J'ai développé plusieurs sites Web basés sur Wordpress, Joomla, Go ou PHP/HTML"
+
+- name: Databases
+  logo: "/images/sections/skills/db.png"
+  summary: "Solides connaissances sur les bases de données NoSQL (MongoDB, DynamoDB), OLAP/OLTP (Sybase ASE, Teradata, Oracle)"
+
+
+softSkills:
+- name: Leadership
+  percentage: 85
+  color: blue

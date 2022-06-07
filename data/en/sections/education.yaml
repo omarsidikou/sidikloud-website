@@ -1,0 +1,62 @@
+# section information
+section:
+  name: Education
+  id: education
+  template: sections/education.html
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+degrees:
+- name: Executive MBA “Leading Innovation in a Digital World”
+  icon: fa-graduation-cap
+  timeframe: 2014-2016
+  institution:
+    name: Mines telecom business school
+    url: "https://www.cvtrust.com/SmartDiploma/Default.aspx?E8vZv2xO9%2fqRDT7Euw0WDLES3naOGiDtJVLdmEx6DxOh0P4HY5HLl5MaYmPfLXXH"
+    logo: "https://upload.wikimedia.org/wikipedia/commons/b/b0/IMT_logo_2017.png"
+  publications: #(optional)
+  - title: Business models innovation
+  - title: Entrepreneurship and Intrapreneurship
+  - title: Leadership and ethics
+
+
+- name: Master in Business Intelligence 
+  icon: fa-graduation-cap
+  timeframe: 2005-2006
+  institution:
+    name: University of Paris Dauphine-PSL
+    url: https://dauphine.psl.eu/formations/masters/informatique/m2-informatique-decisionnelle
+
+
+- name: Master in Information Systems and networks  
+  icon: fa-graduation-cap
+  timeframe: 2004-2005
+  institution:
+    name: University of Tours
+    url: "https://www.univ-tours.fr/l-universite/notre-fonctionnement/notre-organisation/departement-dinformatique"
+
+
+- name: Master in Computer science
+  icon: fa-graduation-cap
+  timeframe: 2003-2004
+  institution:
+    name: University of Paris-Saclay
+    url : https://ecole-universitaire-paris-saclay.fr/formation/licence/informatique
+
+  
+- name: Bachelor in Computer science
+  icon: fa-graduation-cap
+  timeframe: 2000-2003
+  institution:
+    name: University of Paris-Saclay
+    url : https://ecole-universitaire-paris-saclay.fr/formation/licence/informatique
+
+- name: Higher Secondary School Certificate
+  icon: fa-graduation-cap
+  timeframe: 2000
+  institution:
+    name: Lycee Maurice Genevoix
+    url : http://www.lyc-genevoix-montrouge.ac-versailles.fr/

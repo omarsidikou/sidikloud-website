@@ -1,0 +1,16 @@
+# some information about you
+name: "Omar SIDIKOU"
+
+# greeting message before your name. it will default to "Hi! I am" if not provided
+#greeting: "Omar SIDIKOU"
+image: "images/author/omar_sidikou.jpg"
+# give your some contact information. they will be used in the footer
+contactInfo:
+  email: "omar@sidikloud.com"
+  phone: "+33 6 52 66 59 64"
+
+# some summary about what you do
+summary:
+  - Expertise dans le domaine du cloud
+  - Expertise dans le domaine de l'Internet des objets (IoT)
+  - Experstise dans le domaine de l'analyse de données

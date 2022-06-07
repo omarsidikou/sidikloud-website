@@ -1,0 +1,67 @@
+baseURL : http://localhost:1313
+
+languageCode : fr
+theme : "toha"
+
+languages:
+  fr:
+    languageName: Français
+    title: "Services Cloud & IoT"
+    weight: 1
+  en:
+    languageName: English
+    title: "Cloud & IoT based services"
+    weight: 2
+  
+  
+  
+
+# Control TOC depth
+markup:
+  tableOfContents:
+    startLevel: 2
+    endLevel: 6
+    ordered: false
+
+# At least HTML and JSON are required for the main HTML content and
+# client-side JavaScript search
+outputs:
+  home:
+  - HTML
+  - RSS
+  - JSON
+
+# Enable global emoji support
+enableEmoji: true
+
+# Site parameters
+params:
+  # GitHub repo URL of your site
+  #gitRepo: https://github.com/omarsidikou/sidikloud-website.github.io
+
+  # Default branch of your Git repo
+  # gitBranch: source
+
+  features:
+    analytics:
+      enabled: false
+      google:
+        id: UA-122321624-2
+
+  background : "images/Background.png"
+  #mainLogo : static/images/logos/logo_sidikloud.png
+
+  logo:
+    main : images/logos/logo_sidikloud.png
+    mainLogo : images/logos/logo_sidikloud.png
+
+  # specify whether you want to write some blog posts or not
+  enableBlogPost: true
+
+  # specify whether you want to show Table of Contents in reading page
+  enableTOC: true
+
+  # Provide newsletter configuration. This feature hasn't been implemented yet.
+  # Currently, you can just hide it from the footer.
+  newsletter:
+    enable: false

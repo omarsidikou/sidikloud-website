@@ -1,0 +1,66 @@
+# section information
+section:
+  name: Loisirs
+  id: achievements
+  enable: true
+  weight: 6
+  showOnNavbar: true
+  #template: sections/achievements/entry.html
+  #template : sections/achievements/carousel.html
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+
+socialLinks:
+- name: Linkedin
+  icon: "fab fa-linkedin"
+  url: "https://fr.linkedin.com/in/omar-sidikou-25617285"
+
+
+item    :
+  - positionRight : false
+    image : /images/slider_1/slider_1.jpg
+
+    title_tkd : Taekwondo
+    url_tkd : https://taekwondoparis.com/
+
+    title_pmt : Muay-thaï
+    url_pmt : https://pantinmuaythai.com/
+
+    title_sca : Super Crack Academy
+    url_sca : http://www.supercrackacademy.org/
+
+    title_cod : 10000 codeurs 
+    url_cod : https://10000codeurs.com/numerique-parole-a-la-jeunesse-nigerienne
+    
+    description_martial_arts : >
+      Je suis un passionné de Taekwondo et de Muay-thaï. Pratiquant depuis plus de 25 ans,  
+      la maîtrise de soi que cela apporte  explique en partie pourquoi, je suis une personne calme et sûre d'elle.
+      Les arts martiaux sont une vraie passion qui permet d'entretenir mon savoir-être (résilience, gestion du 
+      stress,empathie, patience). 
+
+    description_digital_literacy : >
+      Fondateur et responsable de l'association "Super Crack Academy", dans le but de sensibiliser les jeunes à la culture numérique,   
+      la programmation informatique et la robotique afin de faciliter leurs insertions professionnelles.
+      L'association est basée en France et au Niger. Le leimotiv est l’apprentissage par la pratique ("learn by doing") afin
+      que les jeunes conçoivent rapidement des prototypes et réfléchissent sur des problèmes tangibles qui touchent à leur communauté.
+      Je participe également à des initiatives telles que 10000 codeurs afin de sensibiliser les jeunes du continent africain
+      sur les opportunités offertes par le numérique.
+
+      
+
+
+
+images: 
+  - image: /images/slider/slider_1.jpg
+    content_html: "1"
+  - image: /images/slider/slider_1.jpg
+    content_html: "2"
+  - image: /images/slider/slider_1.jpg
+    content_html: "3"
+
+
+achievements:
+- title: Best Presenter
+  image: /images/slider/slider_1.jpg
+  summary: Best presenter in the 2020 XYZ conference.

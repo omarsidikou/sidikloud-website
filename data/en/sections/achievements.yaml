@@ -1,0 +1,64 @@
+# section information
+section:
+  name: Hobbies
+  id: achievements
+  enable: true
+  weight: 6
+  showOnNavbar: true
+  #template: sections/achievements/entry.html
+  #template : sections/achievements/carousel.html
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+
+socialLinks:
+- name: Linkedin
+  icon: "fab fa-linkedin"
+  url: "https://fr.linkedin.com/in/omar-sidikou-25617285"
+
+
+item    :
+  - positionRight : false
+    image : /images/slider_1/slider_1.jpg
+
+    title_tkd : Taekwondo
+    url_tkd : https://taekwondoparis.com/
+
+    title_pmt : Muay-thaï
+    url_pmt : https://pantinmuaythai.com/
+
+    title_sca : Super Crack Academy
+    url_sca : http://www.supercrackacademy.org/en/index.html
+
+    title_cod : 10000 codeurs 
+    url_cod : https://10000codeurs.com/numerique-parole-a-la-jeunesse-nigerienne
+    
+    description_martial_arts : >
+      I'm an avid Taekwondo and Muay-thaï practioner. Having practiced for more than 25 years the self-control it brings explains 
+      in part why I'm such a still and self-confident person. Martial arts is a true passion from where most part of my
+      soft skills (resiliance,stress Management,empathy,patience) have been nurtured.
+
+    description_digital_literacy : >
+      I'm the founder and director of Super Crack Academy which is an not-for-profit organization,based in France and Niger aims to initiate 
+      youth in computer science (robotics,coding).  
+      Our approach is to "learn by doing" and "doing more with less". For that reason robotics and Raspberry Pi ecosystem are good ways.
+      Also, I'm involved on several initiatives like 10000 codeurs in order to raise awareness for african youth 
+      on all the opportunities related to the digital.
+
+      
+
+
+
+images: 
+  - image: /images/slider/slider_1.jpg
+    content_html: "1"
+  - image: /images/slider/slider_1.jpg
+    content_html: "2"
+  - image: /images/slider/slider_1.jpg
+    content_html: "3"
+
+
+achievements:
+- title: Best Presenter
+  image: /images/slider/slider_1.jpg
+  summary: Best presenter in the 2020 XYZ conference.

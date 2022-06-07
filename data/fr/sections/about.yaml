@@ -1,0 +1,77 @@
+# section information
+section:
+  name: A propos
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# your designation
+designation: Architect cloud  & Data ingénieur
+# your company information
+#company:
+#  name: Example Co.
+#  url: "https://www.example.com"
+
+# your resume. this file path should be relative to you "static" directory
+resume: "files/CV_SIDIKOU_Omar_FR.pdf"
+
+# a summary about you
+summary: "J'ai 15 ans d'expériences professionnelles dans le 
+domaine de l'informatique décisionnelle principalement dans le secteur bancaire et les télecoms.
+J'ai recemment développé mon expertise sur les services Cloud AWS, IoT et analyse de données. 
+Ma mission est de concevoir et de gérer des architectures basées sur le cloud afin que les équipes Data
+se concentrent sur leurs analyses de données."
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+
+
+socialLinks:
+- name: Linkedin
+  icon: "fab fa-linkedin"
+  url: "https://fr.linkedin.com/in/omar-sidikou-25617285"
+
+#- name: Github
+#  icon: "fab fa-github"
+#  url: "https://fr.linkedin.com/in/omar-sidikou-25617285"
+
+# badges
+badges:
+- type: certification
+  name: AWS Certified Solutions Architect – Associate
+  url: "https://www.credly.com/badges/ba662e9c-07b1-49a7-9ccd-c6b6c52f759c"
+  badge: "https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png"
+
+- type: certification
+  name: AWS Certified Data Analytics – Specialty
+  url: "https://www.credly.com/badges/9e85400b-5434-4d71-b31c-8fae2dc46dd6"
+  badge: "https://images.credly.com/size/340x340/images/6430efe4-0ac0-4df6-8f1b-9559d8fcdf27/image.png"
+
+- type: certification
+  name: AWS Certified Data Analytics – Specialty
+  url: "https://www.credly.com/badges/dab90544-1c30-48f2-acec-3f3d5505a2cd"
+  badge: "https://images.credly.com/size/340x340/images/778bde6c-ad1c-4312-ac33-2fa40d50a147/image.png"
+
+#- type: certification
+#  name: Internet of Things
+#  url: "https://executive-education.telecom-paris.fr/fr/formations-certifiantes/internet-des-objets-iot-objets-connectes"
+#  badge: "https://executive-education.telecom-paris.fr/sites/all/themes/custom/telecom2019/logo2021.svg"
+
+
+
+  
+# your soft skills
+# give the percentage between 50 to 100 with 5 intervals.
+# currently supported colors: blue, yellow, pink, green, sky, orange
+
+#softSkills:
+#- name: Leadership
+#  percentage: 85
+#  color: blue
+
+#- name: Team Work
+#  percentage: 90
+#  color: yellow
+
