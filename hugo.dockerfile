@@ -10,4 +10,4 @@ COPY . /src/
 
 EXPOSE ${PORT}
 
-ENTRYPOINT ["hugo","server","-D"]
+ENTRYPOINT ["hugo","server","-D" , "-p" , "8080"]

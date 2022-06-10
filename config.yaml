@@ -1,4 +1,9 @@
-baseURL : http://localhost:1313
+#baseURL : http://sidikloud.com/
+baseURL : https://sidikloud.netlify.app
+
+description   : "Cloud & IoT based services"
+keywords     : "cloud,IoT, Internet of Things, Internet des Objets, aws,africa,niger,france, omar,sidikou"
+
 
 languageCode : fr
 theme : "toha"
@@ -44,9 +49,9 @@ params:
 
   features:
     analytics:
-      enabled: false
+      enabled: true
       google:
-        id: UA-122321624-2
+        id: G-GR5GDK83Q4
 
   background : "images/Background.png"
   #mainLogo : static/images/logos/logo_sidikloud.png
@@ -54,6 +59,7 @@ params:
   logo:
     main : images/logos/logo_sidikloud.png
     mainLogo : images/logos/logo_sidikloud.png
+    favicon : images/logos/favicon.png
 
   # specify whether you want to write some blog posts or not
   enableBlogPost: true
