@@ -1,21 +1,21 @@
-#baseURL : http://sidikloud.com/
-baseURL : https://sidikloud.netlify.app
+baseURL : http://sidikloud.com/
 
 description   : "Cloud & IoT based services"
 keywords     : "cloud,IoT, Internet of Things, Internet des Objets, aws,africa,niger,france, omar,sidikou"
 
+defaultContentLanguage: fr
 
 languageCode : fr
 theme : "toha"
 
 languages:
-  fr:
-    languageName: Français
-    title: "Services Cloud & IoT"
-    weight: 1
   en:
     languageName: English
     title: "Cloud & IoT based services"
+    weight: 1
+  fr:
+    languageName: Français
+    title: "Services Cloud & IoT"
     weight: 2
   
   

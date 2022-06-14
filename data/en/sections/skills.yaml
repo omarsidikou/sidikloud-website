@@ -19,11 +19,12 @@ skills:
 
 - name: Docker/Kubernetes
   logo: "/images/sections/skills/kubernetes.png"
-  summary: "I'm able to build containerized applications and after deploy and manage them through Kubernetes"
+  summary: "I'm able to build containerized applications and after deploy and manage them through Kubernetes.
+            This website is currently hosted on a docker container and managed by Amazon ECS."
 
 - name: Unix/Linux
   logo: "/images/sections/skills/linux.png"
-  summary: "Unix is the main operating system which host most part of the applications on which I worked on. Therefore shell scripts and Python are the languages I use for tasks related to Tierce maintenance applicative (TMA)"
+  summary: "Unix is the main operating system which host most part of the applications on which I worked on. Therefore shell scripts and Python are the languages I use for tasks related to Tierce maintenance applicative (TMA)."
 
 - name: Internet of Things
   logo: "/images/sections/skills/iot.jpg"
@@ -33,9 +34,10 @@ skills:
   logo: "/images/sections/skills/web.png"
   summary: "I have built several websites based on Wordpress, Joomla, Go or PHP/HTML"
 
-- name: Databases
+- name: Databases & analytics
   logo: "/images/sections/skills/db.png"
-  summary: "Strong knowledges on NoSQL Databases (MongoDB, DynamoDB) and OLAP/OLTP Databases (Sybase ASE, Teradata, Oracle)"
+  summary: "Strong knowledges on ETL(Extract,Transform,Load) or ELT process related to OLAP/OLTP Databases (Sybase ASE, Teradata, Oracle) or
+            NoSQL Databases (MongoDB, DynamoDB)."
 
 
 softSkills:

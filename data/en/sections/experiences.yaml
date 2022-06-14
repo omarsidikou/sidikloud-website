@@ -10,6 +10,20 @@ section:
 # Your experiences
 experiences:
 - company :
+    name: SIDIKLOUD
+    url: "http://sidikloud.com/"
+    
+    # company overview
+    overview:  Design, develop and manage IoT & cloud applications based on IoT & Cloud architectures so that Data analyst & Data scientist can focus  on their analytics. 
+  
+  positions:
+     - designation: Cloud architect & Data engineer 
+       start: July 2022
+       # don't provide end date if you are currently working there. It will be replaced by "Present"
+       # end: Dec 2020
+       # give some points about what was your responsibilities at the company.
+      
+- company :
     name: BNP PARIBAS SECURITIES SERVICES
     url: "https://securities.cib.bnpparibas/"
     location: Pantin (France)
@@ -40,7 +54,7 @@ experiences:
        start: July 2014
        end : June 2017
        responsibilities:
-       - Incidents & crisis call management related to Production activities
+       - Incidents & crisis call management related to Production activities and based on ITIL methodology
        - Design new architecture in order to be more resilient and avoid the risks of obsolescence
        - Improving the existing infrastructure (server & software upgrades) based on TIBCO Spotfire,Sybase ASE, DataStage, IBM WebSphere 
 

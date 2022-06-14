@@ -9,6 +9,22 @@ section:
 
 # Your experiences
 experiences:
+
+- company :
+    name: SIDIKLOUD
+    url: "http://sidikloud.com/"
+    
+    # company overview
+    overview:  Concevoir, Développer et gérer des applications basées sur des architectures IoT & cloud
+               afin que les équipes Data (Data analyst, Data scientist) se concentrent sur leurs analyses. 
+  
+  positions:
+     - designation: Architecte cloud & Data ingénieur  
+       start: July 2022
+       # don't provide end date if you are currently working there. It will be replaced by "Present"
+       # end: Dec 2020
+       # give some points about what was your responsibilities at the company.
+
 - company :
     name: BNP PARIBAS SECURITIES SERVICES
     url: "https://securities.cib.bnpparibas/fr/"
@@ -26,14 +42,14 @@ experiences:
        responsibilities:
        - Gérer l'infrastructure liée à l'application qui est principalement utilisée pour le règlement des titres. Application basée sur Oracle Exadata, Weblogic, TIBCO Rendezvous
        - Intégration de nouveaux clients en clarifiant le besoin et en mettant en place de nouveaux flux (CFT/MQ Series)
-       - Gestion des incidens (Analyse,communication, résolution)
+       - Gestion des incidents (Analyse,communication, résolution)
 
      - designation: Business Analyst
        start: Juillet 2017
        end : Avril 2020
        responsibilities:
-       - Formaliser les besoins fonctionnels de clients 
-       - Support technico-fonctionnel sur les clients finaux
+       - Formaliser les besoins fonctionnels liés à des demandes de clients existants 
+       - Support technico-fonctionnel
        - Participer aux travaux d'intégration de nouveaux clients 
        - Mettre en place des processus d'intégration de données qui proviennent des marchés financiers
 
@@ -41,7 +57,7 @@ experiences:
        start: Juillet 2014
        end : Juin 2017
        responsibilities:
-       - Gestions des incidents et des cellules de crises liés aux activités de reportings financiers.
+       - Gestions des incidents et des cellules de crises liés aux activités de reportings financiers sur la base des normes ITIL
        - Concevoir de nouvelles architectures afin que le système d'information lié aux reportings financiers soit plus résilient et permettre 
          ainsi d'éviter les risques obsolescence.
        - Améliorer l'infrastructure existance (serveurs & mises à jour logicielles) basée on TIBCO Spotfire,Sybase ASE, DataStage, IBM WebSphere 
